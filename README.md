@@ -1,4 +1,6 @@
-# CmpDeepDive
+# Server Traffic - Monitor Server Status and Create Tickets
+
+![Server](./src/assets/Server.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
 
